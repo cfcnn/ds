@@ -2,79 +2,99 @@
 	"央视": [{
 			"epg": "CCTV1",
 			"title": "CCTV1",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000133.m3u8"
 		}, {
 			"epg": "CCTV2",
 			"title": "CCTV2",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000217.m3u8"
 		}, {
 			"epg": "CCTV3",
 			"title": "CCTV3",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000134.m3u8"
 		}, {
 			"epg": "CCTV4",
 			"title": "CCTV4",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000315.m3u8"
 		}, {
 			"epg": "CCTV5",
 			"title": "CCTV5",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000135.m3u8"
 		}, {
 			"epg": "CCTV5",
 			"title": "CCTV5+",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000138.m3u8"
 		}, {
 			"epg": "CCTV6",
 			"title": "CCTV6",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000136.m3u8"
 		}, {
 			"epg": "CCTV7",
 			"title": "CCTV7",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000241.m3u8"
 		}, {
 			"epg": "CCTV8",
 			"title": "CCTV8",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000137.m3u8"
 		}, {
 			"epg": "CCTV9",
 			"title": "CCTV9",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000249.m3u8"
 		}, {
 			"epg": "CCTV10",
 			"title": "CCTV10",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000218.m3u8"
 		}, {
 			"epg": "CCTV11",
 			"title": "CCTV11",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000324.m3u8"
 		}, {
 			"epg": "CCTV12",
 			"title": "CCTV12",
-			"url": "http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000219.m3u8"
 		}, {
 			"epg": "CCTV13",
 			"title": "CCTV13",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000022.m3u8"
 		}, {
 			"epg": "CCTV14",
 			"title": "CCTV14",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000248.m3u8"
 		}, {
 			"epg": "CCTV15",
 			"title": "CCTV15",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/"
-		}, {
-			"epg": "CCTV13",
-			"title": "CCTV13",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/"
-		}, {
-			"epg": "CCTVNEWS",
-			"title": "CCTVNEWS",
-			"url": "http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/"
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000325.m3u8"
 		}, {
 			"epg": "CCTV4K",
 			"title": "CCTV4K超高清",
 			"url": "http://cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8"
+		}, {
+			"epg": "CGTV纪录",
+			"title": "CGTV纪录",
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000234.m3u8"
+		}, {
+			"epg": "CETV1",
+			"title": "CETV1",
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000256.m3u8"
+		}, {
+			"epg": "CGTVNEWS",
+			"title": "CGTVNEWS",
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000260.m3u8"
+		}, {
+			"epg": "CGTV法语",
+			"title": "CGTV法语",
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000230.m3u8"
+		}, {
+			"epg": "CGTV阿语",
+			"title": "CGTV阿语",
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000231.m3u8"
+		}, {
+			"epg": "CGTV葡语",
+			"title": "CGTV葡语",
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000233.m3u8"
+		}, {
+			"epg": "CGTV西语",
+			"title": "CGTV西语",
+			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000233.m3u8"
 		}
 	]
 }
