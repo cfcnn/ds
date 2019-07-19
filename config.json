@@ -88,8 +88,8 @@
 			"title": "CGTV西语",
 			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000231.m3u8"
 		}, {
-			"epg": "CGTV葡语",
-			"title": "CGTV葡语",
+			"epg": "CGTV俄语",
+			"title": "CGTV俄语",
 			"url": "http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D289423U3099E010K775F7E7AI76305A2FPBM32250AEV1044EZ33519WE37011A9732&playtoken=ABCDEFGHI&programid=4200000232.m3u8"
 		}, {
 			"epg": "CGTV阿语",
