@@ -1,0 +1,42 @@
+{
+	"央视": [{
+			"epg": "CCTV1",
+			"title": "CCTV1",
+			"url": "http://127.0.0.1:22222/test.mp4"
+		}, {
+			"epg": "CCTV2",
+			"title": "CCTV2",
+			"url": "http://127.0.0.1:22222/test.mp4"
+		},
+		{
+			"epg": "CCTV3",
+			"title": "CCTV3",
+			"url": "http://127.0.0.1:22222/test.mp4"
+		}
+	],
+	"卫视":[{
+			"epg": "ANHUI",
+			"title": "安徽卫视",
+			"url": "http://127.0.0.1:22222/test.mp4"
+		}, {
+			"epg": "HUNAN",
+			"title": "湖南卫视",
+			"url": "http://127.0.0.1:22222/test.mp4"
+		}
+	],
+	"港台":[{
+			"epg": "FHWS",
+			"title": "凤凰卫视",
+			"url": "http://127.0.0.1:22222/test.mp4"
+		}, {
+			"epg": "TVB",
+			"title": "TVB",
+			"url": "http://127.0.0.1:22222/test.mp4"
+		},
+		{
+			"epg": "HBO",
+			"title": "HBO",
+			"url": "http://127.0.0.1:22222/test.mp4"
+		}
+	]
+}
